@@ -1,0 +1,10 @@
+
+public class ContaPoupanca extends Conta {
+
+	private static int SEQUENCIAL = 0; /*SEQUENCIAL é uma constante que foi criada para gerar os números das contas*/
+	
+	public ContaPoupanca() {
+		super.agencia = Conta.AGENCIA_PADRAO;
+		super.numero = SEQUENCIAL;
+	}
+}
