@@ -1,1 +1,22 @@
-<mxfile host="app.diagrams.net" modified="2022-08-02T00:19:23.044Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" version="20.2.2" etag="_y8DYIY-P51uAVGtV4Ka" type="github"><diagram id="68t3u2CPNSVZ29qoYDfH">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-08-02T00:26:56.204Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="RASIv4TFxkNI7xW91aLf" version="20.2.2" type="github">
+  <diagram id="68t3u2CPNSVZ29qoYDfH" name="Página-1">
+    <mxGraphModel dx="1038" dy="579" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="_htTVLz8YXD7mmeS2F4j-1" value="Cálculo do &lt;br&gt;Imposto de Renda" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="40" y="40" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="_htTVLz8YXD7mmeS2F4j-2" value="Tabela Progressiva" style="whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="160" y="40" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="_htTVLz8YXD7mmeS2F4j-3" value="Deduções&lt;br&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="280" y="40" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="_htTVLz8YXD7mmeS2F4j-4" value="Valor recebido" style="whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="400" y="40" width="100" height="100" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
